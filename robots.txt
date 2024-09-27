@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://crophica.github.io/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/app/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/assets/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/css/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/data/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/includes/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/item/sitemap.crophica.gz
+Sitemap: https://crophica.github.io/src/sitemap.crophica.gz
